@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">KvantNews</string>
+    <string name="get_data">Get data</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="come_in">Войти</string>
+    <string name="NoSuchUsers">Неверное имя пользователя или пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="who_are_you">Кем вы являетесь?</string>
+    <string name="fill_in_register">Заполните все поля регистрации</string>
+    <string name="min_length_login_5">Минамальная длина логина - 5 символов</string>
+    <string name="min_length_pass_5">Минамальная длина пароля - 5 символов</string>
+    <string name="pass_should_equal">Пароли должны совпадать!</string>
+    <string name="you_successfully_register">Вы успешно зарегистрировались!</string>
+    <string name="this_name_busy">Это имя уже занято!</string>
+    <string name="network_problems">Проблемы с подключением к серверу</string>
+    <string name="student">Ученик</string>
+    <string name="parent">Родитель</string>
+    <string name="teacher">Учитель</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selector">selector</string>
+    <string name="example_username">username</string>
+    <string name="title_activity_student_nav">StudentNavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="news">Новости</string>
+    <string name="timetable">Расписание</string>
+    <string name="posts">Новости курсов</string>
+    <string name="achievements">Достижения</string>
+    <string name="support">Поддержка</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выход</string>
+    <string name="kvant_news">Kvant News</string>
+    <string name="username">Username</string>
+    <string name="reload">Обновить</string>
+    <string name="back">Назад</string>
+    <string name="no_internet_connection">Отсутствует подключение к сети.</string>
+    <string name="please_wait">Пожалуйста, подождите.</string>
+    <string name="news_is_reloaded">Новости обновлены</string>
+    <string name="choose_your_course">Выберите курс</string>
+    <string name="course_name">Название курса</string>
+    <string name="date_n_time">день и время</string>
+    <string name="groupp">группа</string>
+    <string name="monday">понедельник</string>
+    <string name="tuesday">вторник</string>
+    <string name="wednesday">среда</string>
+    <string name="thursday">четверг</string>
+    <string name="friday">пятница</string>
+    <string name="saturday">суббота</string>
+    <string name="sunday">воскресенье</string>
+</resources>

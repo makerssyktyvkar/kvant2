@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Your_question">Введите ваш вопрос</string>
+    <string name="submit">Отправить</string>
+    <string name="is_ready">Готово</string>
+    <string name="you_havent_children">У вас пока нет детей, зарегистрированных в системе.</string>
+</resources>
